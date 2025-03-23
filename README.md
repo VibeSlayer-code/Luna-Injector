@@ -2,7 +2,8 @@
 
 ![Luna Injector](https://i.ibb.co/1kcYjVp/WOmcc2K.png)
 
-Luna Injector is a powerful and effective DLL injector designed as a console-based tool. It provides an easy-to-use interface for injecting DLLs into any target process, including Roblox at times!
+Luna Injector is a powerful and effective DLL injector designed as a console-based tool on C++. It provides an easy-to-use interface for injecting DLLs into any target process, including some Anti-DLL protected processes like Roblox at times by basic bypassing 
+techniques** (May not work sometimes!)**! 
 
 ---
 
