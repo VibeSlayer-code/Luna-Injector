@@ -18,11 +18,7 @@ techniques (May not work sometimes!)!
 
 ---
 
-## 🚀 Installation & Compilation
 
-```bash
- g++ -o LunaInjector LunaInjector.cpp -static-libgcc -static-libstdc++
-```
 
 ---
 
