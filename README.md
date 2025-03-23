@@ -73,8 +73,5 @@ BOOL APIENTRY DllMain(HMODULE hModule, DWORD ul_reason_for_call, LPVOID lpReserv
 ## 🔒 Disclaimer
 This tool is intended for educational purposes only. Use it responsibly.
 
----
 
-## 📜 License
-MIT License
 
