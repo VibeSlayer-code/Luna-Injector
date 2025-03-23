@@ -17,10 +17,7 @@ Luna Injector is a simple and effective DLL injector designed as a console-based
 ```
 
 ### 📥 Download
-[![Download Luna Injector](https://img.shields.io/badge/Download-Luna%20Injector-blue?style=for-the-badge&logo=github)](https://github.com/YourUsername/Luna-Injector/releases)
-
-### 📖 Documentation
-[![Read Documentation](https://img.shields.io/badge/Read%20Documentation-Click%20Here-brightgreen?style=for-the-badge)](https://github.com/YourUsername/Luna-Injector/wiki)
+[![Total Downloads](https://img.shields.io/github/downloads/YourUsername/Luna-Injector/total?style=for-the-badge)](https://github.com/YourUsername/Luna-Injector/releases)
 
 ---
 
