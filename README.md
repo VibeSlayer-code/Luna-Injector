@@ -39,7 +39,7 @@ LunaInjector.exe
 
 ## 📸 Example
 ```
-Enter full DLL path: C:\Users\User\Desktop\OhioDLL.dll
+Enter full DLL path: C:\Users\User\Desktop\Ohio.dll
 Enter Process ID: 1234
 
 [Success] DLL Injected Successfully.
@@ -48,7 +48,7 @@ Press Enter to exit...
 
 ---
 
-## 📂 Example DLL (Ohio DLL)
+## 📂 Example DLL 
 An example DLL that shows a message box and types a message in Notepad when injected.
 
 ```cpp
@@ -57,7 +57,7 @@ An example DLL that shows a message box and types a message in Notepad when inje
 #include <string>
 
 void ShowMessage() {
-    MessageBoxA(NULL, "Ohio DLL injected successfully", "DLL Injection", MB_OK | MB_ICONINFORMATION);
+    MessageBoxA(NULL, "DLL injected successfully", "DLL Injection", MB_OK | MB_ICONINFORMATION);
 }
 
 BOOL APIENTRY DllMain(HMODULE hModule, DWORD ul_reason_for_call, LPVOID lpReserved) {
