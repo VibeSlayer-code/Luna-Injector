@@ -1,13 +1,15 @@
 # 🌙 Luna Injector
 
-Luna Injector is a powerful and effective DLL injector designed as a console-based tool with a sleek ASCII banner. It provides an easy-to-use interface for injecting DLLs into any target process, including Roblox at times!
+![Luna Injector](https://i.ibb.co/1kcYjVp/WOmcc2K.png)
+
+Luna Injector is a powerful and effective DLL injector designed as a console-based tool. It provides an easy-to-use interface for injecting DLLs into any target process, including Roblox at times!
 
 ---
 
 ## 📌 Features
 💡 **Simple & Fast Injection** — Easy DLL injection with prompt-based input.
 
-🖥️ **User-Friendly Interface** — Console interface with a stylish ASCII banner for aesthetics.
+🖥️ **User-Friendly Interface** — Human-like, clean, and straightforward interface.
 
 ✅ **Success & Error Handling** — Clear messages indicating success or failure.
 
@@ -37,9 +39,6 @@ LunaInjector.exe
 
 ## 📸 Example
 ```
-==================================
-           LUNA Injector          
-==================================
 Enter full DLL path: C:\Users\User\Desktop\OhioDLL.dll
 Enter Process ID: 1234
 
